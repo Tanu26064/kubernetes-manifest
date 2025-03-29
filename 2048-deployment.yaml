@@ -14,7 +14,7 @@ spec:
         app: "frontend"
     spec:
       containers:
-      - image: 509399624605.dkr.ecr.us-east-2.amazonaws.com/tanu-cicd:3
+      - image: 509399624605.dkr.ecr.us-east-2.amazonaws.com/tanu-cicd:4
         imagePullPolicy: Always
         name: "frontend"
         ports:
